@@ -5,7 +5,7 @@ Homework 4 for COMS W4705 Fall 2025.
 
 This assignment requires you to complete an existing Jupyter notebook. The training process requires a GPU. You could use Google Colab to complete the assignment. You could alternatively use a third party cloud provider offering GPUs, such as lambdalabs.com or vast.ai. It should also be possible to complete the assignment on a mac with M1/M2/M3 chip.
 
-Step 1: Please download the .ipynb for homework 5 from this repository. 
+Step 1: Please download the .ipynb for homework 4 from this repository. 
 
 Step 2: Follow the instructions in the Jupyter notebook to complete the assignment (includes instructions for downloading data).
 
